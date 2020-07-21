@@ -66,7 +66,7 @@
     "invariant": "2.2.4",
     "ip": "1.1.5",
     "jsonwebtoken": "^8.2.2",
-    "lodash": "4.17.5",
+    "lodash": "4.17.19",
     "minimist": "1.2.0",
     "moment": "2.18.1",
     "mongoose": "^5.1.6",
